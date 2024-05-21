@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sensor Data Collection</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    {% include 'header.html' %}
+    <div class="container">
+        <h1>Welcome to Sensor Data Collection</h1>
+        <p>Monitor temperature and humidity with our sensor data collection system.</p>
+        <div class="button-container">
+            <a href="/visualize-realtime" class="button">View Real-Time Data</a>
+            <a href="/visualize-specifiedtime" class="button">View Historical Data</a>
+        </div>
+    </div>
+    {% include 'footer.html' %}
+</body>
+</html>
