@@ -1,15 +1,16 @@
 # HW6
 
 ## 實驗步驟
-Raspberry Pi 4 刷機與環境設定指南
+Raspberry Pi 4 
 刷機步驟：
 
-下載 Raspberry Pi Imager。
-選擇相應的 Raspberry Pi OS（64位元）版本。
-將系統映像寫入 MicroSD 卡。
-將 MicroSD 卡插入 Raspberry Pi 4，連接電源、螢幕、鍵盤和滑鼠，開機。
-進行初始化設定，包括名稱、密碼、時區等。
-連接到網路，建議使用個人熱點以確保穩定性。
+- 下載 Raspberry Pi Imager。
+  - 選擇相應的 Raspberry Pi OS（64位元）版本。
+  - 將系統映像寫入 MicroSD 卡。
+  - 將 MicroSD 卡插入 Raspberry Pi 4，連接電源、螢幕、鍵盤和滑鼠，開機。
+  - 進行初始化設定，包括名稱、密碼、時區等。
+  - 連接到網路，建議使用個人熱點以確保穩定性。
+
 環境設定：
 
 下載所需環境：
